@@ -1,2 +1,6 @@
-# Telemetry-Plays
-Product-led account play engine: streams real-time usage events into n8n, evaluates behavioral thresholds, and fires specialized Slack account management plays the moment a user's in-app behavior signals expansion or churn risk.
+<a href="https://youtu.be/WPITVPNaPB0?si=4X_1kFoWvDbHoT4t" target="_blank">
+  <img src="assets/images/thumbnail.png" alt="Built, not pitched. Watch the full workflow run.">
+</a>  
+
+# Product Telemetry → Account Plays
+Connects real-time usage analytics directly to Slack to trigger specialized account management plays the moment user behavior shifts.
