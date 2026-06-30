@@ -2,5 +2,7 @@
   <img src="assets/images/thumbnail.png" alt="Built, not pitched. Watch the full workflow run.">
 </a>  
 
-# Product Telemetry → Account Plays
-Connects real-time usage analytics directly to Slack to trigger specialized account management plays the moment user behavior shifts.
+# Product Telemetry → Account Plays  
+### Mid-Market SaaS & Tech Startups  
+Connects real-time usage analytics directly to Slack to trigger specialized account management plays the moment user behavior shifts.  
+[Visit My Portfolio](https://i-automate-shit.com)  
